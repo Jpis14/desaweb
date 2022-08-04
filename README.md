@@ -1,3 +1,3 @@
 # desaweb
-desarrollo de software web
-que chimba arepa con quesito
+que chimba
+arepa con quesito
